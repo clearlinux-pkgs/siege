@@ -1,0 +1,1 @@
+; autoreconf -vif; libtoolize -c -f; %configure; rm -f libtool; cp /usr/bin/libtool .
