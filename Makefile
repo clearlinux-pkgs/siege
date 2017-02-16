@@ -1,5 +1,5 @@
 PKG_NAME := siege
-URL := http://pkgs.fedoraproject.org/repo/pkgs/siege/siege-4.0.2.tar.gz/ae03c9072d4ada7309f31d14d0e24518/siege-4.0.2.tar.gz
+URL := http://pkgs.fedoraproject.org/repo/pkgs/siege/siege-2.78.tar.gz/e165dcab18ae27026f09c2b23dcca322/siege-2.78.tar.gz
 
 
 include ../common/Makefile.common
