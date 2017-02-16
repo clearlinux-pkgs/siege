@@ -1,1 +1,1 @@
-; sed -i 's/doc //' Makefile.am; autoreconf -vif; libtoolize -c -f; %configure; rm -f libtool; cp /usr/bin/libtool .
+; autoreconf -vif; %configure; cp /usr/bin/libtool .
