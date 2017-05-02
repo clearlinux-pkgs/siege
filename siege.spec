@@ -4,7 +4,7 @@
 #
 Name     : siege
 Version  : 2.78
-Release  : 3
+Release  : 4
 URL      : http://pkgs.fedoraproject.org/repo/pkgs/siege/siege-2.78.tar.gz/e165dcab18ae27026f09c2b23dcca322/siege-2.78.tar.gz
 Source0  : http://pkgs.fedoraproject.org/repo/pkgs/siege/siege-2.78.tar.gz/e165dcab18ae27026f09c2b23dcca322/siege-2.78.tar.gz
 Summary  : No detailed summary available
