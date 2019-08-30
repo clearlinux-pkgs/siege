@@ -1,1 +1,1 @@
-; autoreconf -vif; %configure; cp /usr/bin/libtool .
+; autoreconf -vif %configure --sysconfdir=/usr/share/defaults/siege --localstatedir=/var; cp /usr/bin/libtool .

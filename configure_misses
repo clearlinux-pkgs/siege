@@ -1,8 +1,11 @@
 Configure miss: buggy pthread mutex initializers
 Configure miss: dlopen() in -ldld
-Configure miss: off/include/openssl/opensslv.h usability
-Configure miss: off/include/openssl/opensslv.h presence
-Configure miss: off/include/openssl/opensslv.h
+Configure miss: /include/openssl/opensslv.h usability
+Configure miss: /include/openssl/opensslv.h presence
+Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/zlib.h usability
+Configure miss: /include/zlib.h presence
+Configure miss: /include/zlib.h
 Configure miss: openssl/e_os.h usability
 Configure miss: openssl/e_os.h presence
 Configure miss: openssl/e_os.h
@@ -10,9 +13,12 @@ Configure miss: getipnodebyname
 Configure miss: freehostent
 Configure miss: buggy pthread mutex initializers
 Configure miss: dlopen() in -ldld
-Configure miss: off/include/openssl/opensslv.h usability
-Configure miss: off/include/openssl/opensslv.h presence
-Configure miss: off/include/openssl/opensslv.h
+Configure miss: /include/openssl/opensslv.h usability
+Configure miss: /include/openssl/opensslv.h presence
+Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/zlib.h usability
+Configure miss: /include/zlib.h presence
+Configure miss: /include/zlib.h
 Configure miss: openssl/e_os.h usability
 Configure miss: openssl/e_os.h presence
 Configure miss: openssl/e_os.h
