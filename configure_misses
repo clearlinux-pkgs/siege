@@ -1,26 +1,16 @@
+Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/zlib.h
+Configure miss: /include/zlib.h
+Configure miss: buggy pthread mutex initializers
 Configure miss: buggy pthread mutex initializers
 Configure miss: dlopen() in -ldld
-Configure miss: /include/openssl/opensslv.h usability
-Configure miss: /include/openssl/opensslv.h presence
-Configure miss: /include/openssl/opensslv.h
-Configure miss: /include/zlib.h usability
-Configure miss: /include/zlib.h presence
-Configure miss: /include/zlib.h
-Configure miss: openssl/e_os.h usability
-Configure miss: openssl/e_os.h presence
-Configure miss: openssl/e_os.h
-Configure miss: getipnodebyname
-Configure miss: freehostent
-Configure miss: buggy pthread mutex initializers
 Configure miss: dlopen() in -ldld
-Configure miss: /include/openssl/opensslv.h usability
-Configure miss: /include/openssl/opensslv.h presence
-Configure miss: /include/openssl/opensslv.h
-Configure miss: /include/zlib.h usability
-Configure miss: /include/zlib.h presence
-Configure miss: /include/zlib.h
-Configure miss: openssl/e_os.h usability
-Configure miss: openssl/e_os.h presence
-Configure miss: openssl/e_os.h
-Configure miss: getipnodebyname
 Configure miss: freehostent
+Configure miss: freehostent
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ option to enable C++11 features
+Configure miss: getipnodebyname
+Configure miss: getipnodebyname
+Configure miss: openssl/e_os.h
+Configure miss: openssl/e_os.h
