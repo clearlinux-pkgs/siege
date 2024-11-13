@@ -1,16 +1,32 @@
 Configure miss: /include/openssl/opensslv.h
 Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/openssl/opensslv.h
+Configure miss: /include/zlib.h
+Configure miss: /include/zlib.h
 Configure miss: /include/zlib.h
 Configure miss: /include/zlib.h
 Configure miss: buggy pthread mutex initializers
 Configure miss: buggy pthread mutex initializers
+Configure miss: buggy pthread mutex initializers
+Configure miss: buggy pthread mutex initializers
+Configure miss: dlopen() in -ldld
+Configure miss: dlopen() in -ldld
 Configure miss: dlopen() in -ldld
 Configure miss: dlopen() in -ldld
 Configure miss: freehostent
 Configure miss: freehostent
+Configure miss: freehostent
+Configure miss: freehostent
+Configure miss: g++ option to enable C++11 features
+Configure miss: g++ option to enable C++11 features
 Configure miss: g++ option to enable C++11 features
 Configure miss: g++ option to enable C++11 features
 Configure miss: getipnodebyname
 Configure miss: getipnodebyname
+Configure miss: getipnodebyname
+Configure miss: getipnodebyname
+Configure miss: openssl/e_os.h
+Configure miss: openssl/e_os.h
 Configure miss: openssl/e_os.h
 Configure miss: openssl/e_os.h
